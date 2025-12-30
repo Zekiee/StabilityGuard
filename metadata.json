@@ -1,0 +1,5 @@
+{
+  "name": "StabilityGuard",
+  "description": "一个基于时间加权模型和运营预算，将技术事故转化为财务指标的量化稳定性评估平台。",
+  "requestFramePermissions": []
+}
